@@ -1,3 +1,6 @@
 #Demo project readme
 This is a sample file
  new line added
+ 
+ some updates for diff on a new branch
+ 
